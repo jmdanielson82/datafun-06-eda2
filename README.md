@@ -14,10 +14,12 @@ The goal is to create a reproducible workflow using GitHub, a virtual environmen
 A local Python virtual environment was created for this project.
 
 Commands used:
+```powershell
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+
 
 ## Data
 A public, non-sensitive dataset was added to the project under the `data/` folder.
