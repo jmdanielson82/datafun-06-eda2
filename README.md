@@ -25,3 +25,27 @@ The dataset will be used later for exploratory data analysis.
 
 ## Notes
 This README will be updated as the project progresses.
+## Dataset Description
+
+### Students Academic Performance Dataset
+**Source:** Kaggle  
+https://www.kaggle.com/datasets/sadiajavedd/students-academic-performance-dataset
+
+**Description:**  
+This dataset contains information on students’ academic performance along with demographic and educational background factors. It is commonly used to explore how variables such as gender, parental education, and test preparation relate to student outcomes.
+
+**Number of Records:**  
+1000 student records
+
+**Columns:**
+
+| Column Name | Description |
+|------------|-------------|
+| gender | Student gender |
+| race/ethnicity | Student race or ethnicity group |
+| parental level of education | Highest education level attained by a parent |
+| lunch | Type of lunch program (standard or free/reduced) |
+| test preparation course | Whether the student completed a test preparation course |
+| math score | Math exam score |
+| reading score | Reading exam score |
+| writing score | Writing exam score |
